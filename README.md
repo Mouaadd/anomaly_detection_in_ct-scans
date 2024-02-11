@@ -33,9 +33,9 @@ Integrating a convolutional autoencoder into the CT scan diagnostic process is e
 
 
 ## Bibliography
-Sharma, S., Kaur, M., & Saini, D. (2019). Lung cancer detection using convolutional neural network. International Journal of Engineering and Advanced Technology, 8(6), 3256–3262. https://doi.org/10.35940/ijeat. F8836.088619. 
-Lung Anomaly Detection System (LADS) Using SVM based on Firefly Algorithm. (2017). International Journal of Science and Research (IJSR), 6(7), 540–544. https://doi.org/10.21275/art20175294 
-Sato, J., Suzuki, Y., Wataya, T., Nishigaki, D., Kita, K., Yamagata, K., Tomiyama, N., & Kido, S. (2023). Anatomy-aware Self-supervised Learning for Anomaly Detection in Chest Radiographs. iScience https://arxiv.org/pdf/2205.04282.pdf
+- Sharma, S., Kaur, M., & Saini, D. (2019). Lung cancer detection using convolutional neural network. International Journal of Engineering and Advanced Technology, 8(6), 3256–3262. https://doi.org/10.35940/ijeat. F8836.088619. 
+- Lung Anomaly Detection System (LADS) Using SVM based on Firefly Algorithm. (2017). International Journal of Science and Research (IJSR), 6(7), 540–544. https://doi.org/10.21275/art20175294 
+- Sato, J., Suzuki, Y., Wataya, T., Nishigaki, D., Kita, K., Yamagata, K., Tomiyama, N., & Kido, S. (2023). Anatomy-aware Self-supervised Learning for Anomaly Detection in Chest Radiographs. iScience https://arxiv.org/pdf/2205.04282.pdf
 
 ## Contact
 - For inquiries or contributions, please contact the authors via the provided email addresse in the poster.
