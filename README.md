@@ -22,7 +22,7 @@ The framework consists of an Encoding and Decoding process using ConvNets and De
 - Determines a threshold for the Mean Absolute Error (MAE) score to classify anomalies.
 
 ## Results & Discussion
-- The system was trained on 297 images, achieving varying levels of accuracy with different architecture approaches, with the CNN-based architecture showing 78% accuracy.
+- The system was trained on 297 images, achieving varying levels of accuracy with different architecture approaches, with the CNN-based architecture showing 82% accuracy.
 - The results indicate that direct training could lead to overfitting, hence incremental learning and self-learning with feedback from experts is crucial for balanced class detection accuracy.
 
 ## Solution’s value
